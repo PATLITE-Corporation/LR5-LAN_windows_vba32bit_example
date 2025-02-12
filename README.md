@@ -1,4 +1,4 @@
-# LR5-LAN_windows_vb.net_example  
+# LR5-LAN_windows_vba32bit_example  
 
 The outline of the sample program for controlling LR5-LAN by socket communication is described.
 
